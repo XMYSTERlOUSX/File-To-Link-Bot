@@ -36,8 +36,8 @@ setuptools.setup(
         "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
         "Framework :: AsyncIO",
         "Programming Language :: Python",
-        "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.7.6",
         "Programming Language :: Python :: 3.8",
     ],
     entry_points="""
